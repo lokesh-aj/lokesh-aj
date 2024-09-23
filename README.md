@@ -26,18 +26,6 @@
 </p>
 
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/lokesh-aj">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-aj&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokesh-aj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
